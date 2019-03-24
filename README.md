@@ -18,7 +18,8 @@ with mainframe ftp-server
 
 ## Instructions
 1. at terminal - go build zftp.go 
-2. launch browser @socket - http://localhost:9001/zftp
+2. run zftp.exe
+3. launch browser @socket - http://localhost:9001/zftp
 
 ### To-dos
 * improve error handling

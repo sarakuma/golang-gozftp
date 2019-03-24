@@ -5,8 +5,8 @@ repo hold scripts that are needed to transfer multiple text/binary files (concur
 1.12.1
 
 ## Dependencies
-github.com/gdamore/encoding
-github.com/secsy/goftp
+* github.com/gdamore/encoding
+* github.com/secsy/goftp
 
 ## Usage
 with mainframe ftp-server
